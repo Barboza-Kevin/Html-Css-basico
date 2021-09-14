@@ -1,0 +1,19 @@
+
+body {background-color:rgba(26, 188, 156, 0.5); cyan;}
+
+#Titulo { color: green;
+         text-align: center;
+            text-decoration: underline;}
+
+.subtitulo {font-style: italic;
+                  text-align: center;
+                        text-decoration: underline;}
+
+.titulos {font-style: italic;
+             text-decoration: underline;
+                 text-align: left;}
+
+p {font-size: 20px;}
+
+.imagen {height: 200px;
+          width: 300px;}
